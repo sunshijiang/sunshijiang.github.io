@@ -1,6 +1,3 @@
----
-title: "Welcome"
----
 # <center> Welcome
 
 
