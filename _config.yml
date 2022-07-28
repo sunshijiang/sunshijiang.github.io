@@ -11,6 +11,13 @@ remote_theme: pages-themes/cayman #jeeekyll-theme-cayman
 #theme: cayman
 plugins:
   - jekyll-remote-theme #feed
+  - jekyll-relative-links
+relative-links:
+  enabled: true
+  collections: true
+
+
+
 #theme: minima
 #plugins:
 #  - jekyll-feed
