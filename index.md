@@ -1,7 +1,5 @@
-# <center> Welcome
-
-## Hello everyone! Welcome to visit my website.
-
+# <center> Welcome  
+## Hello everyone! Welcome to visit my website.  
 ## Thanks for your visit!
 
 ## [my first post](_post/2022-07-28-first-post.md)
