@@ -1,3 +1,7 @@
+---
+layout: home
+title shijiang.tk
+---
 # <center> Welcome
   
 Hello everyone! Welcome to visit my website, which i built using github.
