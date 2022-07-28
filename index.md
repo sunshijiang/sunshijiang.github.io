@@ -9,7 +9,7 @@ title: shijiang.tk
 
 ## [my first post](_post/2022-07-28-first-post.md)
 
-
+## [How to build jekyll site](_post/2022-07-28-how-to-build-jekyll.md)
 
 ---
 
