@@ -1,2 +1,13 @@
 #theme: jekyll-theme-cayman
 theme: minima
+title: shijiang.tk
+email: ssj1595329871@qq.com
+description: >-
+  Hello, welcome to my site.
+baseurl: ""
+url: ""
+github_username: sunshijiang
+
+plugins:
+  - jekyll-feed
+
