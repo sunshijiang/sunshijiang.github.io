@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: page
 title: About
 permalink: /about/
 ---
-
-This is my github page!
+This is about page.
