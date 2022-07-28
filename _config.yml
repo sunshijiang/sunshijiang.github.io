@@ -15,4 +15,5 @@ plugins:
 #  - jekyll-feed
 
 #show_downloads: true
-github.is_project_page: true
+#github.is_project_page: true
+
