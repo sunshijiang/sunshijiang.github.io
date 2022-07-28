@@ -7,10 +7,10 @@ baseurl: ""
 url: ""
 github_username: sunshijiang
 
-#remote_theme: pages-themes/cayman #jeeekyll-theme-cayman
-#plugins:
-#  - jekyll-remote-theme #feed
-theme: minima
+remote_theme: pages-themes/cayman #jeeekyll-theme-cayman
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme #feed
+#theme: minima
+#plugins:
+#  - jekyll-feed
 
