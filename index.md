@@ -1,6 +1,6 @@
 # <center> Welcome
 
-## Hello everyone! Welcome to visit my website, which i built using github.
+## Hello everyone! Welcome to visit my website.
 
 ## Thanks for your visit!
 
