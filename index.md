@@ -9,11 +9,7 @@ title: shijiang.tk
 
 ## [my first post](/post/2022-07-29-test/)
   
-## [my first post](https://github.com/sunshijiang/sunshijiang.github.io/post/2022-07-29-test.md)
-  
 ## [my second post](/post/2022-07-29-second-test/)
-  
-## [my second post](https://github.com/sunshijiang/sunshijiang.github.io/post/2022-07-29-second-test.md)
 
 ## [How to build jekyll site](/post/2022-07-28-how-to-build-jekyll/)
   
