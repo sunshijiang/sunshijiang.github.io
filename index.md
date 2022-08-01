@@ -7,10 +7,6 @@ title: shijiang.tk
 ## Hello everyone! Welcome to visit my website. 
 ## Thanks for your visit!
 
-## [my first post](/post/2022-07-29-test.md)
-  
-## [my second post](/post/2022-07-29-second-test.md)
-
 ## [How to build jekyll site](/post/2022-07-28-how-to-build-jekyll.md)
   
 ## [Conda note](/post/2022-07-29-conda-note.md)
