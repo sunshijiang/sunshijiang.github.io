@@ -14,6 +14,8 @@ title: shijiang.tk
 ## [How to build jekyll site](/post/2022-07-28-how-to-build-jekyll/)
   
 ## [Conda note](/post/conda-note/)
+  
+## [Chicken Soup for the Soul](/post/2022-08-01-chicken-soup-for-the-soul.md)
 
 ## [About](/about.md)
 
