@@ -3,7 +3,7 @@ layout: default
 title: "Conda note"
 description: This is a note about conda"
 cateogries: conda
-permalink: /post/conda-note/
+permalink: /post/2022-07-29-conda-note/
 ---
 # Conda note
 
