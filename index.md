@@ -15,6 +15,8 @@ title: shijiang.tk
   
 ## [Chicken Soup for the Soul](/post/2022-08-01-chicken-soup-for-the-soul.md)
 
+## [The TV choice](/post/2022-08-01-tv-choice.md)
+
 ## [About](/about.md)
 
 ## [Contact](/contact.md)
