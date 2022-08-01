@@ -13,6 +13,8 @@ permalink: /post/2022-08-01-chicken-soup-for-the-soul/
 
 ### 星光不问赶路人，时光不负有心人
 
+### 但行好事，莫问前程
+
 
 
 
