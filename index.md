@@ -17,6 +17,8 @@ title: shijiang.tk
 
 ## [The TV choice](/post/2022-08-01-tv-choice.md)
 
+## [How to build github page](/post/2022-08-02-how-to-build-github-page.md)
+  
 ## [About](/about.md)
 
 ## [Contact](/contact.md)
