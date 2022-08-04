@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Conda note"
-description: This is a note about conda"
+description: This is a note about conda
 cateogries: conda
 permalink: /post/2022-07-29-conda-note/
 ---
