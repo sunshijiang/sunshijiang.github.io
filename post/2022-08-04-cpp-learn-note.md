@@ -6,5 +6,5 @@ categories: cpp
 permalink: /post/2022-08-04-cpp-learn-note/
 ---
 
-## º¯ÊıÖØÔØ
+## å‡½æ•°é‡è½½
 
