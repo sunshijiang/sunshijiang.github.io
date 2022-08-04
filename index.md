@@ -7,6 +7,8 @@ title: shijiang.tk
 ## Hello everyone! Welcome to visit my website. 
 ## Thanks for your visit!
 
+## [C++ Learning Note](/post/2022-08-04-cpp-learn-note.md)
+
 ## [How to build jekyll site](/post/2022-07-28-how-to-build-jekyll.md)
   
 ## [Git Note](/post/2022-08-04-gitnote.md)
