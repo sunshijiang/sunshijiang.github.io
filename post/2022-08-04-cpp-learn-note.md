@@ -10,23 +10,23 @@ permalink: /post/2022-08-04-cpp-learn-note/
 
 ```
 #include <iostream>
-unsigned long left(unsigned long num, unsigned ct); //µ÷ÓÃleftº¯Êı£¬leftÎªlongĞÍ£¬ÆäÖĞleftº¯ÊıÓĞÁ½¸ö²ÎÊı£¬Ò»¸öÊÇÕûĞÍ£¬Ò»¸öÊÇunsigned
-char * left(const char * str, int n = 1);   //  µ÷ÓÃleftº¯Êı£¬leftÎªcharĞÍ£¬ÆäÖĞleftÓĞÁ½¸ö²ÎÊı£¬Ò»¸öÊÇ³£Á¿char£¬Ò»¸öÊÇÕûĞÍ
+unsigned long left(unsigned long num, unsigned ct); //è°ƒç”¨leftå‡½æ•°ï¼Œleftä¸ºlongå‹ï¼Œå…¶ä¸­leftå‡½æ•°æœ‰ä¸¤ä¸ªå‚æ•°ï¼Œä¸€ä¸ªæ˜¯æ•´å‹ï¼Œä¸€ä¸ªæ˜¯unsigned
+char * left(const char * str, int n = 1);   //  è°ƒç”¨leftå‡½æ•°ï¼Œleftä¸ºcharå‹ï¼Œå…¶ä¸­leftæœ‰ä¸¤ä¸ªå‚æ•°ï¼Œä¸€ä¸ªæ˜¯å¸¸é‡charï¼Œä¸€ä¸ªæ˜¯æ•´å‹
 
 int main()
 {
     using namespace std;
-    char * trip = "Hawaii!!";   //  charĞÍ£¬³£Á¿
-    unsigned long n = 12345678; //  longĞÍ
-    int i;      //  ÕûĞÍ
-    char * temp;    //  charĞÍ
+    char * trip = "Hawaii!!";   //  charå‹ï¼Œå¸¸é‡
+    unsigned long n = 12345678; //  longå‹
+    int i;      //  æ•´å‹
+    char * temp;    //  charå‹
 
     for (i = 1; i < 10 ; i++)
     {
-        cout << left(n, i) << endl; //  µ÷ÓÃlong leftº¯Êı
-        temp = left(trip, i);   //  µ÷ÓÃ char leftº¯Êı£¬iµİÔö
-        cout << temp << endl;   //  Êä³ötemp
-        delete[] temp;  // ½â³ıÖ¸Õë
+        cout << left(n, i) << endl; //  è°ƒç”¨long leftå‡½æ•°
+        temp = left(trip, i);   //  è°ƒç”¨ char leftå‡½æ•°ï¼Œié€’å¢
+        cout << temp << endl;   //  è¾“å‡ºtemp
+        delete[] temp;  // è§£é™¤æŒ‡é’ˆ
 
     }
     return 0;
