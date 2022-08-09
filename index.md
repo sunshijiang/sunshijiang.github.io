@@ -13,6 +13,8 @@ title: shijiang.tk
   
 ## [Git Note](/post/2022-08-04-gitnote.md)
 
+## [Vim Note](/post/2022-08-09-vim-note.md)
+
 ## [Conda note](/post/2022-07-29-conda-note.md)
   
 ## [What is default layout](/post/2022-08-01-what-is-cayman-default.md)
