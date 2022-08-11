@@ -1,5 +1,5 @@
 ---
- layout: default
+layout: default
 title: "C++ Inline Functions"
 categories: c++
 description: This is a note of C++ inline functions
