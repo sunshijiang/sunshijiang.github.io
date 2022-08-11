@@ -7,3 +7,5 @@ permalink: /post/2022-08-04-cpp-learn-note/
 ---
 
 # [C++ Struct](/post/cpp-note/cpp-struct/)
+# [C++ Function](/post/cpp-note/cpp-inline-struct/)
+
