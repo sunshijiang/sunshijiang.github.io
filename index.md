@@ -27,6 +27,8 @@ title: shijiang.tk
 
 ## [How to build github page](/post/2022-08-02-how-to-build-github-page.md)
   
+## [Read](/post/2022-08-14-read.md)
+
 ## [About](/about.md)
 
 ## [Contact](/contact.md)
