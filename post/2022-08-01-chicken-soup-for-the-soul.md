@@ -15,6 +15,7 @@ permalink: /post/2022-08-01-chicken-soup-for-the-soul/
 
 ### 但行好事，莫问前程
 
+### 磨刀不误砍柴工
 
 
 
