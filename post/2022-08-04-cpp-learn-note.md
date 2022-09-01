@@ -6,8 +6,8 @@ categories: cpp
 permalink: /post/2022-08-04-cpp-learn-note/
 ---
 
-# [C++ Struct](/post/cpp-note/cpp-struct/)
-# [C++ Function](/post/cpp-note/cpp-inline-struct/)
+## [C++ Struct](/post/cpp-note/cpp-struct/)
+## [C++ Function](/post/cpp-note/cpp-inline-struct/)
 ## [Memory Models and Namespaces](/post/cpp-note/cpp-memory-models-and-namespaces/)
 
 
