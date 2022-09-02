@@ -13,6 +13,6 @@ permalink: /post/2022-09-02-recommand/)
 
 ## Contact me
 - Blog -> [shijiang.tk](https://shijiang.tk)
-- Email -> <ssj1595329871@gmail.com>
+- Email -> <ssj1595329871@qq.com>
 - Github -> [sunshijiang@github](https://github.com/sunshijiang)
 
