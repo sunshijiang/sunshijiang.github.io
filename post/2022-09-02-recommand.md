@@ -2,8 +2,8 @@
 layout: default
 title: "Recommand Software"
 categories: software
-
-permalink: /post/2022-09-02-recommand/)
+description: 软件推荐
+permalink: /post/2022-09-02-recommand/ 
 ---
 
 ## [win-vind](https://github.com/pit-ray/win-vind)
@@ -14,5 +14,5 @@ permalink: /post/2022-09-02-recommand/)
 ## Contact me
 - Blog -> [shijiang.tk](https://shijiang.tk)
 - Email -> <ssj1595329871@qq.com>
-- Github -> [sunshijiang@github](https://github.com/sunshijiang)
+- Github -> [sunshijiang@Github](https://github.com/sunshijiang)
 
