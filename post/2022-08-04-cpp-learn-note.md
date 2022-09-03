@@ -9,7 +9,7 @@ permalink: /post/2022-08-04-cpp-learn-note/
 ## [C++ Struct](/post/cpp-note/cpp-struct/)
 ## [C++ Function](/post/cpp-note/cpp-inline-struct/)
 ## [Memory Models and Namespaces](/post/cpp-note/cpp-memory-models-and-namespaces/)
-
+## [Objects and Classes](/post/cpp-note/cpp-objects-and-classed/)
 
 ## Contact me
 - Blog -> [shijiang.tk](https://shijiang.tk)
