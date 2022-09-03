@@ -18,3 +18,8 @@ permalink: /post/cpp-note/cpp-objects-and-classes/
 ## 创建对象数组
 ## 类作用域
 ## 抽象数据类型
+
+## Contact me
+- Blog -> [shijiang.tk](https://shijiang.tk)
+- Email -> <ssj1595329871@qq.com>
+- Github -> [sunshijiang@Github](https://github.com/sunshijiang)
