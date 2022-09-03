@@ -8,6 +8,10 @@ permalink: /post/2022-09-02-recommand/
 
 ## [win-vind](https://github.com/pit-ray/win-vind)
 
+### 使用说明
+模式转换
+![](https://raw.githubusercontent.com/sunshijiang/images/master/img/20220903221036.png)
+
 ## [PowerToys](https://github.com/microsoft/PowerToys)
 
 
