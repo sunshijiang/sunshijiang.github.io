@@ -39,6 +39,8 @@ title: shijiang.tk
 
 ## [Github-learn](/post/2022-09-27-github-learn.md)
 
+## [SSH Note](/post/2022-09-28-ssh-note.md)
+
 ## [About](/about.md)
 
 ## [Contact](/contact.md)
