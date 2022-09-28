@@ -41,6 +41,8 @@ title: shijiang.tk
 
 ## [SSH Note](/post/2022-09-28-ssh-note.md)
 
+## [Hosts Note](/post/2022-09-28-host.md)
+
 ## [About](/about.md)
 
 ## [Contact](/contact.md)
