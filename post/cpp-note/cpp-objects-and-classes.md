@@ -17,6 +17,60 @@ permalink: /post/cpp-note/cpp-objects-and-classes/
 ## this指针
 ## 创建对象数组
 ## 类作用域
+
+#### 要调用公有成员函数，必须通过对象
+<details><summary>调用公有成员函数</summary>
+<pre><code>
+
+Stock sleeper("Exclusive Ore", 100, 0.25);
+sleeper.show();
+show();
+</code></pre>
+</details>
+
+#### 在定义成员函数时，必须使用作用域解析运算符
+<details><summary>解析运算符</summary>
+<pre><code>
+void Stock::update(doubele price)
+{
+    ...
+}
+</code></pre>
+</details>
+
+### 作用域为类的常量
+
+#### 在类中声明一个枚举
+
+<details><summary>声明的枚举的作用域为整个类</summary>
+<pre><code>
+class Bakery
+{
+private:
+    enum {Months = 12};
+    double costs[Months];
+    ...
+}
+</code></pre>
+</details>
+
+#### 使用关键字static
+
+<details><summary>使用关键字static</summary>
+<pre><code>
+class Bakery
+{
+private:
+    static const int Months = 12;
+    double costs[Months];
+    ...
+}
+</code></pre>
+</details>
+
+### 作用域内枚举
+
+
 ## 抽象数据类型
 
 ## Contact me
