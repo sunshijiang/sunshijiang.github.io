@@ -43,6 +43,8 @@ title: shijiang.tk
 
 ## [Hosts Note](/post/2022-09-28-host.md)
 
+## [Emoji](/post/2022-09-29-emoji.md)
+
 ## [About](/about.md)
 
 ## [Contact](/contact.md)
