@@ -45,6 +45,8 @@ title: shijiang.tk
 
 ## [Emoji](/post/2022-09-29-emoji.md)
 
+## [文字识别OCR](/post/2022-10-11-ocr.md)
+
 ## [About](/about.md)
 
 ## [Contact](/contact.md)
