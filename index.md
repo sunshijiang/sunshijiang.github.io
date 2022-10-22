@@ -47,6 +47,8 @@ title: shijiang.tk
 
 ## [文字识别OCR](/post/2022-10-11-ocr.md)
 
+## [Makefile](/post/2022-10-23-makefile.md)
+
 ## [About](/about.md)
 
 ## [Contact](/contact.md)
